@@ -1,6 +1,7 @@
-### Hi ,I'm wyatt👋
+### About 😁
+  Hi ,I'm wyatt👋
  
-***
+
 ### Get in touch 📫
 * ✉ Email:<a href="mailto:cc7722@foxmail.com">cc7722@foxmail.com</a>
 <!-- **ThisIsWyatt/ThisisWyatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
